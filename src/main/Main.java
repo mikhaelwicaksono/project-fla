@@ -2,7 +2,7 @@ package main;
 
 import java.util.*;
 
-import CURD.Curd;
+import factory.Curd;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package entity;
+package model;
 
 public abstract class Jabatan {
 	private String kode_karyawan;

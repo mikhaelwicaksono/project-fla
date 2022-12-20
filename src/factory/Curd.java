@@ -1,14 +1,14 @@
-package CURD;
+package factory;
 
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Vector;
 
-import entity.Admin;
-import entity.Direksi;
-import entity.Jabatan;
-import entity.Manager;
-import entity.Supervisor;
+import model.Admin;
+import model.Direksi;
+import model.Jabatan;
+import model.Manager;
+import model.Supervisor;
 
 public class Curd {
 	Scanner scan = new Scanner(System.in);

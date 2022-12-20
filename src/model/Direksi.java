@@ -1,4 +1,4 @@
-package entity;
+package model;
 
 public class Direksi extends Jabatan{
 
